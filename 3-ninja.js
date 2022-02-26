@@ -1,7 +1,7 @@
 
 let i = 0;
 
-while(i < 5){
+while(i < 5){gi
     console.log('loop is:', i)
     i++
 }
